@@ -3,7 +3,7 @@
 Jogo inspirado no clássico Flappy Bird desenvolvido com JavaScript puro, com foco em manipulação de DOM e lógica de programação.
 
 ## 🚀 Demonstração
-🔗 Deploy: https://SEU-LINK-VERCEL.vercel.app
+[![Deploy on Vercel](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)](https://SEU-LINK-AQUI.vercel.app)
 
 ## 🛠 Tecnologias
 - HTML5
