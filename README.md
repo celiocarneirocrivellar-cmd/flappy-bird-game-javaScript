@@ -1,47 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-🐦 Flappy Bird - JavaScript
-
-Projeto desenvolvido utilizando JavaScript puro com foco em manipulação de DOM e lógica de programação.
-
-🚀 Demonstração
-
-🔗 Deploy: (link da Vercel)
-🔗 Repositório: (link do GitHub)
-
-🛠 Tecnologias
-
-HTML5
-
-CSS3
-
-JavaScript (Vanilla JS)
-
-🎯 Conceitos Aplicados
-
-Manipulação de DOM
-
-Controle de eventos
-
-Funções construtoras
-
-Game Loop
-
-Lógica de colisão
-
-💡 Objetivo do Projeto
-
-Aplicar fundamentos sólidos de desenvolvimento front-end sem uso de frameworks.
-
-📸 Preview
-
-(coloque print ou gif)
-=======
-# flappy-bird-game-javaScript
->>>>>>> main
-=======
-# flappy-bird-game-javaScript
-
+# Flappy Bird - JavaScript
 
 Projeto desenvolvido com foco em lógica de programação e manipulação de DOM utilizando JavaScript puro.
 
@@ -66,7 +23,8 @@ Aplicar conceitos de:
   ## 📷 Preview
 ## 📸 Preview
 
-![Flappy Bird Preview](assets/images/preview1.png)
+![Flappy Bird Preview](assets/images/preview.png)
+
 ## 📌 Status
 Projeto finalizado para fins de aprendizado.
->>>>>>> ec462177c0d18609b711f8b69f03bc85f409ae90
+
