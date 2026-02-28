@@ -1,30 +1,25 @@
-# Flappy Bird - JavaScript
+# 🐦 Flappy Bird - JavaScript
 
-Projeto desenvolvido com foco em lógica de programação e manipulação de DOM utilizando JavaScript puro.
+Jogo inspirado no clássico Flappy Bird desenvolvido com JavaScript puro, com foco em manipulação de DOM e lógica de programação.
 
-## 🚀 Tecnologias utilizadas
+## 🚀 Demonstração
+🔗 Deploy: https://SEU-LINK-VERCEL.vercel.app
+
+## 🛠 Tecnologias
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript (Vanilla JS)
 
-## 🎯 Objetivo
-Aplicar conceitos de:
+## 🎯 Conceitos Aplicados
+- Manipulação de DOM
+- Lógica de colisão
+- Game Loop
 - Controle de eventos
-- Manipulação de elementos na tela
-- Lógica condicional
-- Atualização dinâmica de interface
+- Estruturação de funções
 
-## 💡 Aprendizados
-- Estruturação de código
-- Organização de funções
-- Controle de fluxo
-- Interatividade no navegador
-
-  ## 📷 Preview
 ## 📸 Preview
 
-![Flappy Bird Preview](assets/images/preview.png)
+![Flappy Bird Preview](assets/imags/preview.png)
 
-## 📌 Status
-Projeto finalizado para fins de aprendizado.
-
+## 📌 Objetivo
+Projeto desenvolvido para consolidar fundamentos sólidos de desenvolvimento front-end sem uso de frameworks.
