@@ -64,7 +64,9 @@ Aplicar conceitos de:
 - Interatividade no navegador
 
   ## 📷 Preview
+## 📸 Preview
 
+![Flappy Bird Preview](assets/images/preview1.png)
 ## 📌 Status
 Projeto finalizado para fins de aprendizado.
 >>>>>>> ec462177c0d18609b711f8b69f03bc85f409ae90
