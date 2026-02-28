@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🐦 Flappy Bird - JavaScript
 
 Projeto desenvolvido utilizando JavaScript puro com foco em manipulação de DOM e lógica de programação.
@@ -34,3 +35,6 @@ Aplicar fundamentos sólidos de desenvolvimento front-end sem uso de frameworks.
 📸 Preview
 
 (coloque print ou gif)
+=======
+# flappy-bird-game-javaScript
+>>>>>>> main
